@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiDeporte</string>
+    <string name="str_tipo">Tipo:</string>
+    <string name="str_individual">Individual</string>
+    <string name="str_pareja">En pareja</string>
+    <string name="str_grupal">Grupal</string>
+    <string name="str_deporte">Deporte:</string>
+</resources>
